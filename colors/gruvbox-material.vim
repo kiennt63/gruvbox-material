@@ -1577,7 +1577,7 @@ endif
 highlight! link NvimTreeSymlink Fg
 highlight! link NvimTreeFolderName Fg
 highlight! link NvimTreeRootFolder Grey
-highlight! link NvimTreeFolderIcon Blue
+highlight! link NvimTreeFolderIcon Green
 highlight! link NvimTreeEmptyFolderName Fg
 highlight! link NvimTreeOpenedFolderName Fg
 highlight! link NvimTreeExecFile Fg
